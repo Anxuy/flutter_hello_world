@@ -25,7 +25,7 @@ samples, guidance on mobile development, and a full API reference.
 
 # update
 2019.7.17 交互例子完成
-
+2019.7.26 底部导航按钮完成
 ios simulator ok
 
 android simulator
